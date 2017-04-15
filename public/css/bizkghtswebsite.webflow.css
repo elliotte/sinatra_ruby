@@ -272,7 +272,8 @@ body {
   height: 126px;
   margin-right: auto;
   margin-left: auto;
-  background-color: #80b821;
+  background-color: #07e856;
+  border-radius: 25px;
 }
 
 .loading-percentage {
@@ -288,10 +289,11 @@ body {
   height: 126px;
   margin-right: auto;
   margin-left: auto;
-  background-image: url('../images/percentage5.png');
+  background-image: url('../images/ico_bk.png');
   background-position: 50% 50%;
   background-size: 57px;
   background-repeat: no-repeat;
+
 }
 
 .loading-wrapper-div {
