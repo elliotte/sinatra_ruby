@@ -11,7 +11,7 @@ set :partial_template_engine, :erb
 set :views, File.join(File.dirname(__FILE__), 'views')
 
 get '/' do
-  @title = "text"
+  @title = "Nice Website Name"
   # send_file File.join(settings.public_folder, 'index.html')
   # File.read('index.html.erb')
   erb :index
