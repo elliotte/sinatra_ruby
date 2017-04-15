@@ -5,4 +5,5 @@ gem "puma"
 
 group :development do
   gem 'foreman'
+  gem 'shotgun'
 end
